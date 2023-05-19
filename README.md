@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Notoavina a Frontend Developer
 
+<a href="https://app.daily.dev/Notoavina"><img src="https://github.com/Notoavina3X/Notoavina3X/blob/master/devcard.svg" width="400" alt="Notoavina's Dev Card"/></a>
+
+
 <!--
 **Notoavina3X/Notoavina3X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
