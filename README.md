@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Notoavina
-
-### a React Developer
+### Hi there 👋, I'm Notoavina a Frontend Developer
 
 <!--
 **Notoavina3X/Notoavina3X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
