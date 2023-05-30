@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Notoavina a Frontend Developer
+### Hi there 👋, I'm Notoavina a Fullstack Developer
 
 <a href="https://app.daily.dev/Notoavina"><img src="https://github.com/Notoavina3X/Notoavina3X/blob/main/devcard.svg" width="300" alt="Notoavina's Dev Card"/></a>
 
