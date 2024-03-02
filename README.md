@@ -8,8 +8,8 @@ I've been learning to code for 5 years.
 
 * 🌍  I'm based in Madagascar, Fianarantsoa
 * ✉️  You can contact me at [notoavinarazafilalao@gmail.com](mailto:notoavinarazafilalao@gmail.com)
-* 🧠  I'm learning a new framework, NextJS
-* 🤝  I'm open to collaborating on interesting react project
+* 🧠  Still learning
+* 🤝  I'm open to collaborating on react/next project
 
 <a href="https://www.github.com/Notoavina3X" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Notoavina3X?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
