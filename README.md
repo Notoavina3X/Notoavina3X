@@ -32,4 +32,4 @@
 
 ### Daily Dev Card
 
-<a href="https://app.daily.dev/notoavina"><img src="https://github.com/Notoavina3X/Notoavina3X/blob/main/devcard.svg" width="356" alt="Notoavina Razafilalao's Dev Card"/></a>
+<a href="https://app.daily.dev/notoavina"><img src="https://api.daily.dev/devcards/v2/XYj8wG7kB5KHjjnpmm17P.png?type=default&r=ri9" width="356" alt="Notoavina Razafilalao's Dev Card"/></a>
